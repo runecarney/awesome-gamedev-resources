@@ -1,1 +1,1 @@
-# awesome-game-accessibility
+# awesome-gamedev-resources
