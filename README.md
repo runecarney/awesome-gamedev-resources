@@ -1,3 +1,7 @@
+# Intro
+This repo has multiple game development resources that I have found that I think are useful.
+
+
 # Awesome Game Development Resources
 
 [LÖVE Framework](https://love2d.org)
